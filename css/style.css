@@ -590,8 +590,8 @@ section {
     font-weight: bold;
   }
   
-  .close:hover,
-  .close:focus {
+  .closeM:hover,
+  .closeM:focus {
     color: hsl(26, 100%, 55%);
     text-decoration: none;
     cursor: pointer;
@@ -724,6 +724,7 @@ section {
         
     }
     .closeM{
+        
         left: 70%;
     }
    
